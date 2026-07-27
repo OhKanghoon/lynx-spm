@@ -36,48 +36,48 @@ let package = Package(
   targets: [
     .binaryTarget(
       name: "Lynx",
-      url: "https://github.com/OhKanghoon/lynx-prebuild/releases/download/3.6.0-ext/Lynx.xcframework.zip",
-      checksum: "e725d04b2aa0734849d555415f5e199605c4edc16c7831844b936169c836daf6"
+      url: "https://github.com/OhKanghoon/lynx-prebuild/releases/download/3.9.0/Lynx.xcframework.zip",
+      checksum: "1b2b866a27c69b3fd999ee5320e46ca1a2451a96fff44ad0a39b943ec147bf01"
     ),
     .binaryTarget(
       name: "LynxBase",
-      url: "https://github.com/OhKanghoon/lynx-prebuild/releases/download/3.6.0-ext/LynxBase.xcframework.zip",
-      checksum: "d0ab7d986d6d41162863bd002489ac16726b4fd43514b5f0b338d10f63b52b6f"
+      url: "https://github.com/OhKanghoon/lynx-prebuild/releases/download/3.9.0/LynxBase.xcframework.zip",
+      checksum: "f7fdb59c18a25ec11394d4ab40d134853e327c197749894ff860c8f12cdfbca4"
     ),
     .binaryTarget(
       name: "LynxServiceAPI",
-      url: "https://github.com/OhKanghoon/lynx-prebuild/releases/download/3.6.0-ext/LynxServiceAPI.xcframework.zip",
-      checksum: "18ece5199d258f79efe3178252ba7eb510bc42126227088f8ddd62d1ca5e5daa"
+      url: "https://github.com/OhKanghoon/lynx-prebuild/releases/download/3.9.0/LynxServiceAPI.xcframework.zip",
+      checksum: "ebdd4565357087271c9889cff8840fb0c93748a6d81ed7a4cbeca291a7fe6911"
     ),
     .binaryTarget(
       name: "PrimJS",
-      url: "https://github.com/OhKanghoon/lynx-prebuild/releases/download/3.6.0-ext/PrimJS.xcframework.zip",
-      checksum: "cb87375e8ec2a3a771174151eaa593ad1a1d6182d83fca760fb60b094145d14d"
+      url: "https://github.com/OhKanghoon/lynx-prebuild/releases/download/3.9.0/PrimJS.xcframework.zip",
+      checksum: "d6458d3f50fec39a0f9e912669873ef8ea37c75a856308b355e43d1a53ab4123"
     ),
     .binaryTarget(
       name: "LynxService",
-      url: "https://github.com/OhKanghoon/lynx-prebuild/releases/download/3.6.0-ext/LynxService.xcframework.zip",
-      checksum: "2a33bf60e94b90446fed6b8cce36db89a41bf538a4a8f1fac3f5e87402168006"
+      url: "https://github.com/OhKanghoon/lynx-prebuild/releases/download/3.9.0/LynxService.xcframework.zip",
+      checksum: "3d42181587ddf78b212b4deb400985e9dad76da371eac1899e66f6c00a057605"
     ),
     .binaryTarget(
       name: "BaseDevtool",
-      url: "https://github.com/OhKanghoon/lynx-prebuild/releases/download/3.6.0-ext/BaseDevtool.xcframework.zip",
-      checksum: "ce696e677e911203b82f81ce4b2462ddc4ddbcbcfb91052de8a02bc243780cc5"
+      url: "https://github.com/OhKanghoon/lynx-prebuild/releases/download/3.9.0/BaseDevtool.xcframework.zip",
+      checksum: "1f0ba55336398dee1656c3b334c2ae38f299badb83213fe966806a625717d1b7"
     ),
     .binaryTarget(
       name: "DebugRouter",
-      url: "https://github.com/OhKanghoon/lynx-prebuild/releases/download/3.6.0-ext/DebugRouter.xcframework.zip",
-      checksum: "55e65630ed92b9fc257c80ca8c7c29f90d5ff3562c5e43a2e05cca4df475eac8"
+      url: "https://github.com/OhKanghoon/lynx-prebuild/releases/download/3.9.0/DebugRouter.xcframework.zip",
+      checksum: "eb58402b2d021f9c2fa6294a3499b73c70fc5467e4d5d28a687d189aafc5eb20"
     ),
     .binaryTarget(
       name: "LynxDevtool",
-      url: "https://github.com/OhKanghoon/lynx-prebuild/releases/download/3.6.0-ext/LynxDevtool.xcframework.zip",
-      checksum: "df40a0b7104aa754b34de78e6b64707be2c330699447badaeadbc446cb51989e"
+      url: "https://github.com/OhKanghoon/lynx-prebuild/releases/download/3.9.0/LynxDevtool.xcframework.zip",
+      checksum: "54bcaba842a754a1065e722e0465b0a9fa4739ced583c6620ef39d0ea0271f4f"
     ),
     .binaryTarget(
       name: "XElement",
-      url: "https://github.com/OhKanghoon/lynx-prebuild/releases/download/3.6.0-ext/XElement.xcframework.zip",
-      checksum: "5598d77332cce8bfaa42defe2b457719e0c31f93f49798265f168ae326381733"
+      url: "https://github.com/OhKanghoon/lynx-prebuild/releases/download/3.9.0/XElement.xcframework.zip",
+      checksum: "24e658676b64c0a80fd5b7b11921e8b6d69567cb827de7941855975ef0731327"
     ),
     .target(name: "_LynxStub"),
   ]

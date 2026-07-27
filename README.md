@@ -18,7 +18,7 @@ Add the following dependency to your `Package.swift` file:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/YOUR_USERNAME/lynx-spm.git", from: "3.4.2")
+    .package(url: "https://github.com/YOUR_USERNAME/lynx-spm.git", from: "3.9.0")
 ]
 ```
 
