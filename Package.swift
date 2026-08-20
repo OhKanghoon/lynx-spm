@@ -36,48 +36,48 @@ let package = Package(
   targets: [
     .binaryTarget(
       name: "Lynx",
-      url: "https://github.com/OhKanghoon/lynx-prebuild/releases/download/3.9.0/Lynx.xcframework.zip",
-      checksum: "1b2b866a27c69b3fd999ee5320e46ca1a2451a96fff44ad0a39b943ec147bf01"
+      url: "https://github.com/OhKanghoon/lynx-prebuild/releases/download/3.9.0-1/Lynx.xcframework.zip",
+      checksum: "7e9f36cfa8edca8ba35164aa3160e4d00ad0793978892032c0fdf77472a9f2bb"
     ),
     .binaryTarget(
       name: "LynxBase",
-      url: "https://github.com/OhKanghoon/lynx-prebuild/releases/download/3.9.0/LynxBase.xcframework.zip",
-      checksum: "f7fdb59c18a25ec11394d4ab40d134853e327c197749894ff860c8f12cdfbca4"
+      url: "https://github.com/OhKanghoon/lynx-prebuild/releases/download/3.9.0-1/LynxBase.xcframework.zip",
+      checksum: "83058ee7c12eba9d0b623bc463d7ac28f49e6545b4cb88ed214e8619fe30e4dd"
     ),
     .binaryTarget(
       name: "LynxServiceAPI",
-      url: "https://github.com/OhKanghoon/lynx-prebuild/releases/download/3.9.0/LynxServiceAPI.xcframework.zip",
-      checksum: "ebdd4565357087271c9889cff8840fb0c93748a6d81ed7a4cbeca291a7fe6911"
+      url: "https://github.com/OhKanghoon/lynx-prebuild/releases/download/3.9.0-1/LynxServiceAPI.xcframework.zip",
+      checksum: "34a402ef3cb0bf10357fe98a8c8c03fea68a3b2a853239b46824ea8ec2cef761"
     ),
     .binaryTarget(
       name: "PrimJS",
-      url: "https://github.com/OhKanghoon/lynx-prebuild/releases/download/3.9.0/PrimJS.xcframework.zip",
-      checksum: "d6458d3f50fec39a0f9e912669873ef8ea37c75a856308b355e43d1a53ab4123"
+      url: "https://github.com/OhKanghoon/lynx-prebuild/releases/download/3.9.0-1/PrimJS.xcframework.zip",
+      checksum: "a999e49babdf4a53cd8dbcd6ca40395741744b8d50da3c61dc155e6a68084b77"
     ),
     .binaryTarget(
       name: "LynxService",
-      url: "https://github.com/OhKanghoon/lynx-prebuild/releases/download/3.9.0/LynxService.xcframework.zip",
-      checksum: "3d42181587ddf78b212b4deb400985e9dad76da371eac1899e66f6c00a057605"
+      url: "https://github.com/OhKanghoon/lynx-prebuild/releases/download/3.9.0-1/LynxService.xcframework.zip",
+      checksum: "3cc9d55ce7df0339bc6a2f8bfbf1a4567512f33a4f4b405bc66bb1302584acb3"
     ),
     .binaryTarget(
       name: "BaseDevtool",
-      url: "https://github.com/OhKanghoon/lynx-prebuild/releases/download/3.9.0/BaseDevtool.xcframework.zip",
-      checksum: "1f0ba55336398dee1656c3b334c2ae38f299badb83213fe966806a625717d1b7"
+      url: "https://github.com/OhKanghoon/lynx-prebuild/releases/download/3.9.0-1/BaseDevtool.xcframework.zip",
+      checksum: "941daa599b840f8447b042262ff4133a4b2bdd10954850a2c8b2bf931bdc2e4e"
     ),
     .binaryTarget(
       name: "DebugRouter",
-      url: "https://github.com/OhKanghoon/lynx-prebuild/releases/download/3.9.0/DebugRouter.xcframework.zip",
-      checksum: "eb58402b2d021f9c2fa6294a3499b73c70fc5467e4d5d28a687d189aafc5eb20"
+      url: "https://github.com/OhKanghoon/lynx-prebuild/releases/download/3.9.0-1/DebugRouter.xcframework.zip",
+      checksum: "3bce0034ba5c9311349b8a66cef993ac37ace7d416422241dda4a8f1587c648e"
     ),
     .binaryTarget(
       name: "LynxDevtool",
-      url: "https://github.com/OhKanghoon/lynx-prebuild/releases/download/3.9.0/LynxDevtool.xcframework.zip",
-      checksum: "54bcaba842a754a1065e722e0465b0a9fa4739ced583c6620ef39d0ea0271f4f"
+      url: "https://github.com/OhKanghoon/lynx-prebuild/releases/download/3.9.0-1/LynxDevtool.xcframework.zip",
+      checksum: "9759f49b3048cd9656a3f73feae649be562cbf61765286bd0a809a91068d5959"
     ),
     .binaryTarget(
       name: "XElement",
-      url: "https://github.com/OhKanghoon/lynx-prebuild/releases/download/3.9.0/XElement.xcframework.zip",
-      checksum: "24e658676b64c0a80fd5b7b11921e8b6d69567cb827de7941855975ef0731327"
+      url: "https://github.com/OhKanghoon/lynx-prebuild/releases/download/3.9.0-1/XElement.xcframework.zip",
+      checksum: "4a864d184956eb680bb3c89fa7028d1383c52c4629ac08b02873ea049902915f"
     ),
     .target(name: "_LynxStub"),
   ]
